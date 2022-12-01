@@ -1,6 +1,6 @@
-# 🎄Advent of Code - Template
+# 🎄Advent of Code 2022
 
-> Opinionated template for solving [Advent of Code](https://adventofcode.com/) with JS
+> These are my solutions for [Advent of Code](https://adventofcode.com/) 2022
 
 ## Usage
 
