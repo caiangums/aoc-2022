@@ -5,6 +5,7 @@ import solve03 from './03'
 import solve04 from './04'
 import solve05 from './05'
 import solve06 from './06'
+import solve07 from './07'
 // #import
 
 const solveAll = async () => {
@@ -15,6 +16,7 @@ const solveAll = async () => {
   await solve04()
   await solve05()
   await solve06()
+  await solve07()
   // #run
 }
 
